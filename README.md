@@ -19,7 +19,7 @@ A simple command-line based Python project, which simulates and monitors the ene
 - Os
 ## Installation & Setup
 ### 1. Clone the repository
-Link for the repo - [*(Click Here)*]https://github.com/arnav-25bce10374/smart_home_energy_monitor.git
+Link for the repo - https://github.com/arnav-25bce10374/smart_home_energy_monitor.git
 ### 2. Run the project
 Project Name - smart_home_energy_monitor
 ## How It Works?
